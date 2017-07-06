@@ -8,6 +8,7 @@
 "catalog": 
 	[{  
 		"name": "Test Smart Cities Performance Dashboard Data",
+		"cacheDuration": "60s",
 		"type": "csv",
 		"url": "https://raw.githubusercontent.com/ajbar7/super-duper-adventure/master/nm_cities.csv",
 		"tableStyle": {
