@@ -11,6 +11,7 @@
 		"cacheDuration": "10s",
 		"type": "csv",
     		"isEnabled": "true",
+		"isShown": "true",
 		"url": "https://raw.githubusercontent.com/ajbar7/super-duper-adventure/master/nm_cities.csv",
 		"tableStyle": {
 			"colorPalette": "5-class YlGnBu",
