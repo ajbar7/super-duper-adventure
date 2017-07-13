@@ -8,7 +8,7 @@
 "catalog": 
 	[{  
 		"name": "Test Smart Cities Performance Dashboard Data",
-		"cacheDuration": "60s",
+		"cacheDuration": "10s",
 		"type": "csv",
     		"isEnabled": "true",
 		"isShown": "true",
