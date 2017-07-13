@@ -1,0 +1,22 @@
+{
+"homeCamera": {
+    "north": -8,
+    "east": 158,
+    "south": -45,
+    "west": 109
+  },
+"catalog": 
+	[{  
+		"name": "Test Smart Cities Performance Dashboard Data",
+		"cacheDuration": "60s",
+		"type": "csv",
+    "isEnabled": "True",
+    "isShown": "True,
+		"url": "https://raw.githubusercontent.com/ajbar7/super-duper-adventure/master/nm_cities.csv",
+		"tableStyle": {
+			"colorPalette": "5-class YlGnBu",
+			"timeColumn": null,
+			"scale": 2
+		}
+	}]
+}
