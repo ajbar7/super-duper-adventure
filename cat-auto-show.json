@@ -10,8 +10,8 @@
 		"name": "Test Smart Cities Performance Dashboard Data",
 		"cacheDuration": "60s",
 		"type": "csv",
-    "isEnabled": "True",
-    "isShown": "True,
+    		"isEnabled": "True",
+    		"isShown": "True",
 		"url": "https://raw.githubusercontent.com/ajbar7/super-duper-adventure/master/nm_cities.csv",
 		"tableStyle": {
 			"colorPalette": "5-class YlGnBu",
